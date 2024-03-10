@@ -54,7 +54,11 @@ function pauseSong() {
 
 // Function to play the next song
 function nextSong() {
-  currentSongIndex = (currentSongIndex + 1) % music_list.length;
+  currentSongIndex++;
+if (currentSongIndex >= music_list.length) {
+  currentSongIndex = 0;
+}
+
   updateSongInfo(currentSongIndex);
   playSong();
 }
