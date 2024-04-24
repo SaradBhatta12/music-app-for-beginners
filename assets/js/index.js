@@ -1,24 +1,24 @@
 const music_list = [
   {
-    img: "assets/images/OrkhanZeynalli.jpg",
+    img: "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Iller Sonra",
     artist: "Orkhan Zeynalli",
     music: "assets/music/İller Sonra.mp3",
   },
   {
-    img: "assets/images/ceza.jpg",
+    img: "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Neyim Var Ki",
     artist: "CEZA",
     music: "assets/music/Neyim Var Ki.mp3",
   },
   {
-    img: "assets/images/Gazapizm.jpg",
+    img: "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Unutulacak Dunler",
     artist: "Gazapizm",
     music: "assets/music/Unutulacak Dunler.mp3",
   },
   {
-    img: "assets/images/AID.jpg",
+    img: "https://images.pexels.com/photos/894156/pexels-photo-894156.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     name: "Boyuk Umidler",
     artist: "Orkhan Zeynalli",
     music: "assets/music/Boyuk Umidler.mp3",
